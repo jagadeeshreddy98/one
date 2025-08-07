@@ -3,7 +3,7 @@ const products = {
     mobiles: [
         {
             id: 'm1',
-            title: 'iPhone 15 Pro',
+            title: 'iPhone 16 Pro',
             price: 134900,
             image: 'https://m.media-amazon.com/images/I/81Os1SDWpcL._SL1500_.jpg'
         },
